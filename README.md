@@ -54,6 +54,11 @@ docker run \
   lukechilds/electrumx:v1.8.7
 ```
 
+### Build new version
+```
+docker build -t dalijolijo/electrumx:1.14.0 .
+```
+
 ## License
 
 MIT © Luke Childs
