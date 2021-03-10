@@ -57,7 +57,7 @@ docker run \
 ### Build new docker version
 
 ```
-docker build -t dalijolijo/electrumx:1.14.0 .
+docker build -t dalijolijo/electrumx:mec .
 ```
 
 
